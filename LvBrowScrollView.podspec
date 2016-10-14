@@ -10,13 +10,14 @@ Pod::Spec.new do |s|
 s.name         = "LvBrowScrollView"
 s.version      = "0.0.1"
 s.summary      = "仿微信朋友圈图片浏览"
-s.description  = "仿微信朋友圈图片浏览"
+s.description  = "仿微信朋友圈图片浏览。"
 s.homepage     = "https://github.com/PlacidoLv/LvBrowScrollView"
 s.license      = "MIT"
 s.author       = { "PlacidoLv" => "327853338@qq.com" }
 s.platform     = :ios
 s.source       = { :git => "https://github.com/PlacidoLv/LvBrowScrollView.git", :tag => "0.0.1" }
-s.source_files  = "LvBrowScrollView/{*.h,*.m}"
+s.source_files  = "LvBrowseImageView/*"
 s.requires_arc = true
-spec.dependency = 'SDWebImage'
+s.dependency  'SDWebImage', '~> 3.7.5'
+
 end
