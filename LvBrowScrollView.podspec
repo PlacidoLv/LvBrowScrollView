@@ -15,7 +15,7 @@ s.homepage     = "https://github.com/PlacidoLv/LvBrowScrollView"
 s.license      = "MIT"
 s.author       = { "PlacidoLv" => "327853338@qq.com" }
 s.platform     = :ios
-s.source       = { :git => "https://github.com/PlacidoLv/LvBrowScrollView.git", :tag => "0.0.1",:commit => "418700209ea67917d406ee8a155b4ccec64dfbb8" }
+s.source       = { :git => "https://github.com/PlacidoLv/LvBrowScrollView.git", :tag => "0.0.1",:commit => "09b0500a865cd64e7ef85f6eb8d7fe7bc79d2343" }
 s.source_files  = "LvBrowseImageView/*"
 s.requires_arc = true
 s.dependency  'SDWebImage', '~> 3.7.5'
