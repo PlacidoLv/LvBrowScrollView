@@ -3,7 +3,7 @@
 
 1. 矩阵排列
 
-    ![](https://github.com/PlacidoLv/LvBrowScrollView/tree/master/Demo/LvBrowScrollViewTest/1.gif)
+    ![](https://github.com/PlacidoLv/LvBrowScrollView/master/Demo/LvBrowScrollViewTest/1.gif)
 
 2. 横排排列
 
