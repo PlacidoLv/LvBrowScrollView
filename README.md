@@ -7,4 +7,4 @@
 
 2. 横排排列
 
-    ![](https://github.com/PlacidoLv/LvBrowScrollView/tree/master/Demo/LvBrowScrollViewTest/2.gif)
+    ![](https://github.com/PlacidoLv/LvBrowScrollView/blob/master/Demo/LvBrowScrollViewTest/2.gif)
